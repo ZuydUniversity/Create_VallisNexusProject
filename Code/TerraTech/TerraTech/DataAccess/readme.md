@@ -1,1 +1,1 @@
-## Hier komen de klassen die jullie nodig hebben om de modellen te vertalen naar de database en visa versa.##
+## Hier komen de klassen die jullie nodig hebben om de modellen te vertalen naar de database en visa versa.
