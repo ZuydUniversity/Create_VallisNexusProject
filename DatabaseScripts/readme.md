@@ -1,0 +1,1 @@
+## Hier komen alle scripts die nodig zijn om jullie database op te stellen en te gebruiken in combinatie met de applicatie.##

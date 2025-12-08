@@ -6,7 +6,7 @@
 │  ├── 📄 TechTerra.sln       	# Visual Studio Solution
 │  ├── 📁 TechTerra/           	# Core Game Logic
 │  │  ├── 📄 Program.cs
-│  │  ├── 📁 Model/        		# Domain Models
+│  │  ├── 📁 Models/        	# Domain Models
 │  │  ├── 📁 DataAccess/     	# Data Access Layer
 │  │  └── 📁 Exceptions/     	# Custom Exceptions
 ├── 📁 DatabaseScripts/      	# SQL Database Scripts
@@ -17,11 +17,11 @@
 ### Technologiestack
 
 - **Framework**: .NET Core
-- **UI**: Windows Forms
+- **UI**: Console applicatie
 - **Database**: Microsoft SQL Server
-- **Modellering**: UMLet
+- **Modellering**: UMLet, DrawIO, Mermaid, PlantUML
 
 ### Ontwikkelomgeving
 
-- **IDE**: Visual Studio 2019/2022 (Visual Studio Code)a
+- **IDE**: Visual Studio 2019/2022 (Visual Studio Code)
 - **Vereisten**: .NET Core SDK, SQL Server
